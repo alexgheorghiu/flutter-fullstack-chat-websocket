@@ -7,6 +7,17 @@ It has 2 sub-projects:
 * Back-end  - written completelly in Dart [flutter-fullstack-chat-websocket-server](https://github.com/alexgheorghiu/flutter-fullstack-chat-websocket-server)
 * Front-end written in Flutter [flutter-fullstack-chat-websocket-app](https://github.com/alexgheorghiu/flutter-fullstack-chat-websocket-app)
 
+### 1.1 How it looks like
+
+**Client**
+
+![Alex's phone](./alex-screenshot_2023-10-11_13-11-35.png "User Alex").
+![Loyd's phone](./loyd-screenshot_2023-10-11_13-10-35.png "User Loyd").
+
+**Server**
+
+![Server](./server-screenshot_2023-10-11_13-12-03.png "Websocket Server").
+
 ## 2. How to make it work
 
 ### 2.1 Launch the server

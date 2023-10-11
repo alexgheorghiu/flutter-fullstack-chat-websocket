@@ -48,3 +48,13 @@ flutter devices
 #launch app
 flutter run -d {your_device}
 ```
+
+### 2.3 Troubleshooting
+
+1 __App is not connecting to the endpoint__
+
+You might need to change the endpoint of WebSocket server inside ```main.dart```
+```dart
+final WebSocketChannel _channel =
+      WebSocketChannel.connect(Uri.parse('ws://192.168.100.73:10000'));
+```

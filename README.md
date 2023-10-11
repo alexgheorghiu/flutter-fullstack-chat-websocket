@@ -35,5 +35,5 @@ cd  flutter-fullstack-chat-websocket-app
 flutter devices
 
 #launch app
-flutter run -d {you_device}
+flutter run -d {your_device}
 ```
